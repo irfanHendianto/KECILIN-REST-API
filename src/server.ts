@@ -49,7 +49,7 @@ export interface FastifyInstance {
 }
 
 server.get('/', async (request, reply) => {
-    return { hello: 'world - anjay' };
+    return { hello: 'world' };
 });
 
 export const app: FastifyInstance = server
