@@ -1,5 +1,3 @@
-Sure, here's the Readme file in English:
-
 ---
 
 # Running the Program
